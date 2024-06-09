@@ -19,7 +19,7 @@ Texture synthesis problem involves taking a sample of texture and generate an un
 
 ## Texture Transfer
 
-Texture Transfer problem involves rendering an object with a texture taken from a different object. In the given example, we transfer the rice texture (source texture) onto a human face (target image) to get the following output :-
+Texture Transfer problem involves rendering an object with a texture taken from a different object. In the given example, we transfer rice texture (source texture) onto a human face (target image) to get the following output :-
 
 <p>
   <img width="27%" src="/results/Input/texture13.png">
