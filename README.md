@@ -27,5 +27,5 @@ Texture Transfer problem involves rendering an object with a texture taken from 
   <img width="27%" src="/results/Target/srk.jpeg"> 
   <img width="5%">
   <img width="27%" src="/results/Transfer/transfer_output_2.png"> <br> <br>
-  <img width="5%"> (a) Source Texture <img width="19%"> (b) Target Image <img width="19%"> (c) Output Image
+  <img width="5%"> (a) Source Texture <img width="15%"> (b) Target Image <img width="15%"> (c) Output Image
 </p>
