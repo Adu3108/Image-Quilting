@@ -1,6 +1,6 @@
 # Image Quilting
 
-This repository contains the project done as a part of CS663: Fundamentals of Digital Image Processing at IIT Bombay in Autumn 2022. 
+This repository contains the project done as a part of CS663: Fundamentals of Digital Image Processing at IIT Bombay in Autumn 2023. 
 
 ## Problem Statement
 
